@@ -1,5 +1,5 @@
 # Enterprise AI Adoption: 30 Verified Case Studies (2026)
-> Selected from our verified dataset of **235 enterprise AI implementations** (191 succeeded / 44 failed, 43 industries, 27 countries, 603 primary sources, 89.7% non-Chinese). Every case was drafted from its primary source by one researcher and re-verified number-by-number by a second. Case files are in Chinese (the verified originals); English translations are on the way.
+> Selected from our verified dataset of **235 enterprise AI implementations** (191 succeeded / 44 failed, 43 industries, 27 countries, 603 primary sources, 89.7% non-Chinese). Every case was drafted from its primary source by one researcher and re-verified number-by-number by a second. Every case ships in two versions: verified Chinese originals in `cases/` and English translations in `cases-en/`.
 ## Dataset at a glance
 | Metric | Value |
 |---|---|
@@ -67,7 +67,7 @@
 
 Every case cites original sources with a provenance label (independent research / government / company self-reported / vendor-reported). Self-reported and vendor-reported figures are unverified by third parties — treat them as upper bounds.
 
-**License**: case texts © Kunlun Growth, CC BY-NC-SA 4.0. Underlying facts belong to their original publishers — cite the original sources listed in each file.
+**License**: case texts © Kunlun Growth, CC BY-NC-SA 4.0 (Chinese originals authoritative; English versions provided for international readers). Underlying facts belong to their original publishers — cite the original sources listed in each file.
 
 ## About
 
