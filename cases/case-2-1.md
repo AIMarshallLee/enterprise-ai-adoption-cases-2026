@@ -12,4 +12,4 @@
 
 *案例来源：Siemens官网《Digital transformation: Leading by example》（Siemens Electronics Works Amberg专题页，未标注日期）；Siemens Corporate Technology，Dieter Wegener《AI – Artificial Intelligence: Industrial applications》（ETSI Summit on AI，2019年4月4日）；Siemens《Leading as the Digital Enterprise》手册（2017年，员工数依据）（均为企业自述）*
 
-> 口径提示：企业自述与厂商口径数字未经第三方验证，仅作上限参考。出自《企业AI落地案例与分析手册（2026年10月版）》，增长飞轮AI 编写，逐数字核查。
+> 口径提示：企业自述与厂商口径数字未经第三方验证，仅作上限参考。出自《企业AI落地案例与分析手册（2026年10月版）》，增长飞轮AI 编写，逐数字核查。完整版（43章、235个案例）私信领取：微信 MarshallPD。

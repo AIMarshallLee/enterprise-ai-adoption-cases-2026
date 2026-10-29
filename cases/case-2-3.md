@@ -12,4 +12,4 @@
 
 *案例来源：productronica 2025演讲简介《AI That Delivers: How STARTEAM Increased Utilization by up to 20% without Investing in New Equipment》（2025年11月18日）（厂商口径）；STARTEAM GLOBAL electronica 2026公司手册（2026）（企业自述）；STARTEAM GLOBAL发表于I-Connect007《Growth Unfolds: The First of STARTEAM's Trio of Factories Set to Expand》（2024年12月5日）（企业自述）*
 
-> 口径提示：企业自述与厂商口径数字未经第三方验证，仅作上限参考。出自《企业AI落地案例与分析手册（2026年10月版）》，增长飞轮AI 编写，逐数字核查。
+> 口径提示：企业自述与厂商口径数字未经第三方验证，仅作上限参考。出自《企业AI落地案例与分析手册（2026年10月版）》，增长飞轮AI 编写，逐数字核查。完整版（43章、235个案例）私信领取：微信 MarshallPD。

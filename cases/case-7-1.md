@@ -12,4 +12,4 @@
 
 *案例来源：Kaiser Permanente Division of Research《AI-assisted notetaking gains steady support from Kaiser Permanente physicians》（2025年4月1日）；Kaiser Permanente《AI assists in medical visit note-taking》（未标日期）（机构自述）；Becker's Hospital Review《16K hours saved: Ambient AI scribes at Kaiser Permanente》（2025年6月13日）；AMA《AI scribes save 15,000 hours—and restore the human side of medicine》（2025年6月11日）；AMA《AI scribe saves doctors an hour at the keyboard every day》（2024年3月18日）（媒体与行业协会转述）*
 
-> 口径提示：企业自述与厂商口径数字未经第三方验证，仅作上限参考。出自《企业AI落地案例与分析手册（2026年10月版）》，增长飞轮AI 编写，逐数字核查。
+> 口径提示：企业自述与厂商口径数字未经第三方验证，仅作上限参考。出自《企业AI落地案例与分析手册（2026年10月版）》，增长飞轮AI 编写，逐数字核查。完整版（43章、235个案例）私信领取：微信 MarshallPD。

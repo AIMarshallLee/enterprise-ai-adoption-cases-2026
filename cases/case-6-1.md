@@ -12,4 +12,4 @@
 
 *案例来源：UPS（经GlobeNewswire）《UPS Accelerates Use of Routing Optimization Software to Reduce 100 Million Miles Driven》（2015年3月2日）；INFORMS《INFORMS® Awards UPS its 2016 Edelman Prize》（2016年4月11日）；INFORMS《UPS On-Road Integrated Optimization and Navigation (ORION) Project》（未标日期）（企业自述，经行业学会发布）*
 
-> 口径提示：企业自述与厂商口径数字未经第三方验证，仅作上限参考。出自《企业AI落地案例与分析手册（2026年10月版）》，增长飞轮AI 编写，逐数字核查。
+> 口径提示：企业自述与厂商口径数字未经第三方验证，仅作上限参考。出自《企业AI落地案例与分析手册（2026年10月版）》，增长飞轮AI 编写，逐数字核查。完整版（43章、235个案例）私信领取：微信 MarshallPD。

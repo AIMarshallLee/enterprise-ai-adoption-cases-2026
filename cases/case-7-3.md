@@ -10,6 +10,6 @@
 
 **适用企业画像**：计划规模化采购AI病历工具的医院集团和大型诊所网络，以及需要用客观数据校准厂商宣传、制定使用率目标的采购决策者。
 
-*案例来源：Mass General Brigham新闻稿《AI Scribes Linked to Modest Reductions in Electronic Health Record Use and Clinical Documentation Time》（2026年4月1日，转述JAMA研究《Changes in Clinician Time Expenditure and Visit Quantity With Adoption of Artificial Intelligence-Powered Scribes: A Multisite Study》）（独立研究，机构发布）；*
+*案例来源：Mass General Brigham新闻稿《AI Scribes Linked to Modest Reductions in Electronic Health Record Use and Clinical Documentation Time》（2026年4月1日，转述JAMA研究《Changes in Clinician Time Expenditure and Visit Quantity With Adoption of Artificial Intelligence-Powered Scribes: A Multisite Study》）（独立研究，机构发布）；*[*Telehealth.org*](http://Telehealth.org)*《Large JAMA Study Finds AI Scribes Cut Documentation Time for Ambulatory Clinicians》（媒体）*
 
-> 口径提示：企业自述与厂商口径数字未经第三方验证，仅作上限参考。出自《企业AI落地案例与分析手册（2026年10月版）》，增长飞轮AI 编写，逐数字核查。
+> 口径提示：企业自述与厂商口径数字未经第三方验证，仅作上限参考。出自《企业AI落地案例与分析手册（2026年10月版）》，增长飞轮AI 编写，逐数字核查。完整版（43章、235个案例）私信领取：微信 MarshallPD。

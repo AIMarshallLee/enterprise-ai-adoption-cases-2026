@@ -1,16 +1,26 @@
-# Enterprise AI Adoption: 30 Verified Case Studies (2026)
-> Selected from our verified dataset of **235 enterprise AI implementations** (191 succeeded / 44 failed, 43 industries, 27 countries, 603 primary sources, 89.7% non-Chinese). Every case was drafted from its primary source by one researcher and re-verified number-by-number by a second. Every case ships in two versions: verified Chinese originals in `cases/` and English translations in `cases-en/`.
+# Enterprise AI Adoption: 24 Verified Case Studies (2026)
+
+> Selected from the **Enterprise AI Adoption Case Handbook (October 2026 edition)** by Kunlun Growth (增长飞轮AI): 235 enterprise AI implementations — 191 successes and 44 failures or setbacks — in 43 chapters (one chapter on employee training, 42 industry chapters), from 27 countries and regions, built on 603 sources (89.7% non-Chinese). Every case was drafted from its primary sources by one researcher and then re-checked number by number by a second reviewer who had not drafted it.
+
+This repository publishes **24 of the 235 cases** (16 successes, 8 failures). Each case is available as the verified Chinese original (`cases/`, authoritative) and an English translation (`cases-en/`).
+
+**Want the full handbook?** The complete edition — all 43 chapters and 235 cases, the editor's analysis, chapter guides and self-assessment tools — is not published online. Request it via WeChat: **MarshallPD**.
+
 ## Dataset at a glance
+
 | Metric | Value |
 |---|---|
-| Cases | 235 |
-| Successes | 191 |
-| Failures / setbacks | 44 |
-| Industries (chapters) | 43 |
-| Countries | 27 |
-| Sources | 603 (89.7% non-Chinese) |
+| Cases | 235 (191 successes, 44 failures or setbacks) |
+| Chapters | 43 — employee training (ch. 1) and 42 industries (ch. 2–43; ch. 43 mental health added 2026-10-25) |
+| Countries and regions | 27 |
+| Sources | 603 (541 non-Chinese, 89.7%) |
+| Organization size labels | large enterprise, mid-sized (100–999 staff), small (under 100 staff), government body, public institution, size undisclosed |
 | Revision | 2026-10-25 |
-## Top workflows among the 186 successes
+
+## Where AI paid off first (chapters 1–42, 186 successes)
+
+Each success case in chapters 1–42 was assigned one main workflow by the editors.
+
 | Workflow | Cases |
 |---|---|
 | Knowledge retrieval & document processing | 35 |
@@ -18,58 +28,74 @@
 | Customer service & Q&A | 26 |
 | Forecasting & scheduling | 25 |
 | Content generation & translation | 15 |
-## The 8 failure patterns (44 failures)
-| # | Pattern | n |
+
+## Eight failure patterns (chapters 1–42, 43 failures or setbacks)
+
+| # | Pattern | Cases |
 |---|---|---|
 | 1 | No human fact-check before publishing AI output | 10 |
-| 2 | Never validated on own data/conditions | 8 |
-| 3 | Non-technical business failure | 6 |
-| 4 | No human fallback on external answers/automated decisions | 5 |
-| 5 | Data security, privacy, compliance | 4 |
-| 6 | Novel AI-specific security risks | 4 |
-| 7 | Overestimated expectations, underestimated training | 3 |
-| 8 | Single vendor / single forecast bet | 3 |
-## The 30 selected cases
-| # | Country | Industry | Title | File |
-|---|---|---|---|---|
-| 3.5 | 美国 | 金融 | 金融（信用合作社）——150人信用社上线AI数字助手，客服部门冻结新增人手 | [md](cases/case-3-5.md) |
-| 7.4 | 日本 | 医疗健康 | 医疗健康——111床地区医院用院内部署的生成式AI写看护小结，厂商称用到第3次起耗时减少54.2% | [md](cases/case-7-4.md) |
-| 10.5 | 日本 | 能源电力 | 能源电力——高知县128人的LP气供应商用AI预测余量、自动排配送路线，没有经验的人也能较早上岗 | [md](cases/case-10-5.md) |
-| 11.5 | 日本 | 房地产 | 房地产——东京商业地产公司ファミリーコーポレーション用生成式AI起草合同、自动生成会议纪要，合同草稿编写 | [md](cases/case-11-5.md) |
-| 12.5 | 日本 | 酒店 | 酒店——箱根110名员工的温泉旅馆ホテルおかだ参加观光厅生成式AI实证，员工问答每次从2分钟降到10秒， | [md](cases/case-12-5.md) |
-| 26.5 | 日本 | 餐饮 | 餐饮——2～4人经营的福冈小餐馆用AI电话订位，每月约150通来电中一半以上实现自动处理 | [md](cases/case-26-5.md) |
-| 29.4 | 英国 | 电信 | 电信——近300人的光纤宽带运营商Fibrus升级联络中心，引入AI排班预测和聊天机器人，整体客户联络率 | [md](cases/case-29-4.md) |
-| 38.5 | 日本 | 法律服务 | 法律服务——4名律师的神户小律所用AI合同审查，律师感觉原本要5小时的活缩到10分钟 | [md](cases/case-38-5.md) |
-| 9.4 | 日本 | 政务服务 | 政务服务——人口4.2万的志摩市测算职员使用生成式AI的效果，推算年省约4万小时 | [md](cases/case-9-4.md) |
-| 19.5 | 美国 | 公共安全 | 公共安全——员工26人（2020年）的县级调度中心用AI接听非紧急来电，非紧急来电量减少约75% | [md](cases/case-19-5.md) |
-| 2.5 | 日本 | 制造 | 冲压零件——18人冲压厂用AI做外观检查，人工目视检查量减少95%（实证实验） | [md](cases/case-2-5.md) / [en](cases-en/case-2-5.md) |
-| 2.1 | 德国 | 制造 | 电子制造——西门子安贝格工厂用AI预测哪些电路板需要X光检测、提前12至36小时预警设备故障 | [md](cases/case-2-1.md) |
-| 2.3 | 中国，德资企业 | 制造 | 制造——德资PCB企业江油工厂用AI动态排产，延误减少43% | [md](cases/case-2-3.md) |
-| 3.1 | 中国 | 金融 | 银行——兴业银行建智能体平台，一年内从超200个扩展到345个智能体 | [md](cases/case-3-1.md) |
-| 3.4 | 中国香港 | 金融 | 金融（券商）——持牌券商用大模型客服替代夜班人工，客户投诉率降低80% | [md](cases/case-3-4.md) |
-| 4.1 | 瑞典／全球 | 零售 | 零售（家居）——AI机器人Billie处理47%的呼叫中心咨询，8,500名客服转岗远程室内设计顾问 | [md](cases/case-4-1.md) |
-| 5.2 | 德国 | 汽车 | 汽车——总装输送系统用既有控制数据做AI预测性维护，每年少停线约500分钟 | [md](cases/case-5-2.md) |
-| 6.1 | 美国 | 物流与供应链 | 物流行业——UPS用ORION路线优化系统规划送货顺序，预计年减1亿英里行驶里程 | [md](cases/case-6-1.md) |
-| 7.1 | 美国 | 医疗健康 | 医疗行业——Kaiser Permanente医生用环境式AI病历助手，15个月节省近1.6万小时病历时 | [md](cases/case-7-1.md) |
-| 7.3 | 美国 | 医疗健康 | 医疗行业——五家医疗系统AI病历助手对照研究：每天少约16分钟书写时间，效果取决于使用深度 | [md](cases/case-7-3.md) |
-| 7.6 | 美国，失败案例 | 医疗健康 | 医疗健康——Epic脓毒症预测模型外部验证：漏掉67%的患者，18%的住院患者被报警 | [md](cases/case-7-6.md) |
-| 8.1 | 美国 | 教育 | 教育行业——佐治亚州立大学用短信AI助手Pounce减少“暑期流失” | [md](cases/case-8-1.md) |
-| 16.6 | 加拿大，失败案例 | 交通运输与航空 | 交通运输与航空——加拿大航空聊天机器人答错丧亲票价政策，被裁定赔偿 | [md](cases/case-16-6.md) |
-| 18.2 | 日本 | 医药研发 | 医药研发——中外制药搭建内部生成式AI平台，每天1000–1500人使用 | [md](cases/case-18-2.md) |
-| 20.6 | 美国，失败案例 | 石油化工 | 石油化工——Pioneer机器学习完井优化PoC收获有限：数据不足，模型把井名当关键因素 | [md](cases/case-20-6.md) |
-| 24.6 | 英国／中国香港，失败案例 | 建筑与工程 | 建筑与工程——奥雅纳Arup香港员工遭AI深伪视频会议诈骗、内部风控失守，转出2亿港元 | [md](cases/case-24-6.md) |
-| 40.1 | 澳大利亚 | 软件与IT服务 | 软件与IT服务——澳新银行先做随机对照实验再推广GitHub Copilot，实验组完成任务用时平均缩短 | [md](cases/case-40-1.md) |
-| 1.5 | 澳大利亚，失败案例 | 员工培训与能力建设 | 员工培训与能力建设——财政部Copilot试点：期望过高、培训不足，使用率低于预期 | [md](cases/case-1-5.md) |
-| 25.6 | 澳大利亚，失败案例 | 旅游 | 旅游——小型旅游公司外包AI写营销博客，编出不存在的“Weldborough温泉”，游客专程前往扑空 | [md](cases/case-25-6.md) |
-| 38.6 | 美国，失败案例 | 法律服务 | 法律服务——纽约律师用ChatGPT检索，向法院提交虚构判例，被认定恶意并罚款5,000美元 | [md](cases/case-38-6.md) |
-| 28.5 | 美国，失败案例 | 农业 | 农业——以计算机视觉和机器学习为卖点的垂直农场Bowery Farming融资7亿多美元后停止运营 | [md](cases/case-28-5.md) |
+| 2 | Never validated on the organization's own data or conditions | 8 |
+| 3 | Business failure not caused by the technology | 6 |
+| 4 | No human fallback for customer-facing answers or automated decisions | 5 |
+| 5 | Data security, privacy and compliance | 4 |
+| 6 | New AI-specific security risks (deepfakes, prompt injection) | 4 |
+| 7 | Expectations too high, training too thin | 3 |
+| 8 | Betting on a single vendor or a single forecast | 3 |
 
-## Provenance & license
+## The 24 cases
 
-Every case cites original sources with a provenance label (independent research / government / company self-reported / vendor-reported). Self-reported and vendor-reported figures are unverified by third parties — treat them as upper bounds.
+**Small and mid-sized organizations (4)**
 
-**License**: case texts © Kunlun Growth, CC BY-NC-SA 4.0 (Chinese originals authoritative; English versions provided for international readers). Underlying facts belong to their original publishers — cite the original sources listed in each file.
+| # | Country | Case | Files |
+|---|---|---|---|
+| 2.5 | Japan | Stamped Parts — An 18-person stamping shop uses AI for visual inspection, cutting the volume of manual visual inspection by 95% (demonstration experiment) | [中文](cases/case-2-5.md) · [English](cases-en/case-2-5.md) |
+| 26.5 | Japan | Food Service — A small Fukuoka restaurant run by 2–4 people takes reservation calls with AI; more than half of its roughly 150 calls a month are now handled automatically | [中文](cases/case-26-5.md) · [English](cases-en/case-26-5.md) |
+| 12.5 | Japan | Hotels — Hotel Okada (ホテルおかだ), a 110-employee hot-spring ryokan in Hakone, joins a Japan Tourism Agency generative AI pilot: staff Q&A drops from 2 minutes to 10 seconds per query, and shift scheduling from 30 minutes to 10 seconds per run | [中文](cases/case-12-5.md) · [English](cases-en/case-12-5.md) |
+| 7.4 | Japan | Healthcare — A 111-bed community hospital uses on-premises generative AI to write nursing summaries; the vendor says time spent falls 54.2% from the 3rd use onward | [中文](cases/case-7-4.md) · [English](cases-en/case-7-4.md) |
+
+**Other successes (12)**
+
+| # | Country | Case | Files |
+|---|---|---|---|
+| 2.1 | Germany | Electronics Manufacturing — Siemens' Amberg plant uses AI to predict which circuit boards need X-ray inspection and to warn of equipment failures 12 to 36 hours in advance | [中文](cases/case-2-1.md) · [English](cases-en/case-2-1.md) |
+| 2.3 | China, German-owned company | Manufacturing — A German-owned PCB maker's Jiangyou plant uses AI for dynamic production scheduling, cutting delays by 43% | [中文](cases/case-2-3.md) · [English](cases-en/case-2-3.md) |
+| 3.1 | China | Banking — Industrial Bank builds an AI agent platform, expanding from over 200 to 345 agents within a year | [中文](cases/case-3-1.md) · [English](cases-en/case-3-1.md) |
+| 3.4 | Hong Kong, China | Finance (Brokerage) — A licensed brokerage replaces night-shift human agents with LLM-powered customer service, cutting the customer complaint rate by 80% | [中文](cases/case-3-4.md) · [English](cases-en/case-3-4.md) |
+| 4.1 | Sweden / Global | Retail (Home Furnishings) — AI bot Billie handles 47% of call-centre queries as 8,500 customer-service staff are retrained as remote interior design advisers | [中文](cases/case-4-1.md) · [English](cases-en/case-4-1.md) |
+| 5.2 | Germany | Automotive — AI predictive maintenance of final-assembly conveyor systems using existing control data avoids about 500 minutes of line stoppage a year | [中文](cases/case-5-2.md) · [English](cases-en/case-5-2.md) |
+| 6.1 | United States | Logistics — UPS plans delivery sequences with its ORION route optimization system, projecting 100 million fewer miles driven a year | [中文](cases/case-6-1.md) · [English](cases-en/case-6-1.md) |
+| 7.1 | United States | Healthcare — Kaiser Permanente physicians use an ambient AI documentation assistant, saving nearly 16,000 hours of documentation time in 15 months | [中文](cases/case-7-1.md) · [English](cases-en/case-7-1.md) |
+| 7.3 | United States | Healthcare — A controlled study of AI scribes at five health systems: about 16 fewer minutes of documentation a day, with effects depending on depth of use | [中文](cases/case-7-3.md) · [English](cases-en/case-7-3.md) |
+| 8.1 | United States | Education — Georgia State University uses the text-message AI assistant Pounce to reduce "summer melt" | [中文](cases/case-8-1.md) · [English](cases-en/case-8-1.md) |
+| 18.2 | Japan | Pharmaceutical R&D — Chugai Pharmaceutical builds an in-house generative AI platform used by 1,000–1,500 people a day | [中文](cases/case-18-2.md) · [English](cases-en/case-18-2.md) |
+| 40.1 | Australia | Software & IT Services — ANZ Bank runs a randomized controlled experiment before rolling out GitHub Copilot; the experimental group's task completion time is about 42% shorter on average | [中文](cases/case-40-1.md) · [English](cases-en/case-40-1.md) |
+
+**Failures and setbacks (8)**
+
+| # | Country | Case | Files |
+|---|---|---|---|
+| 1.5 | Australia | Employee Training & Capability Building — Treasury's Copilot trial: high expectations and insufficient training left usage below expectations | [中文](cases/case-1-5.md) · [English](cases-en/case-1-5.md) |
+| 7.6 | United States | Healthcare — External validation of Epic's sepsis prediction model: it missed 67% of patients while alerting on 18% of hospitalized patients | [中文](cases/case-7-6.md) · [English](cases-en/case-7-6.md) |
+| 16.6 | Canada | Transport & Aviation — Air Canada's chatbot gives wrong information on its bereavement-fare policy, and the airline is ordered to pay compensation | [中文](cases/case-16-6.md) · [English](cases-en/case-16-6.md) |
+| 20.6 | United States | Oil & Petrochemicals — Pioneer's machine-learning well-completion optimization PoC yields limited gains: too little data, and the models treated well names as key factors | [中文](cases/case-20-6.md) · [English](cases-en/case-20-6.md) |
+| 24.6 | United Kingdom / Hong Kong, China | Construction & Engineering — An Arup employee in Hong Kong falls for an AI deepfake video-conference scam as internal controls fail, transferring HK\$200 million | [中文](cases/case-24-6.md) · [English](cases-en/case-24-6.md) |
+| 25.6 | Australia | Tourism — A small tour company outsources marketing blog posts written with AI, which invent a nonexistent "Weldborough Hot Springs"; tourists make the trip only to find nothing there | [中文](cases/case-25-6.md) · [English](cases-en/case-25-6.md) |
+| 28.5 | United States | Agriculture — Bowery Farming, a vertical farm marketed on computer vision and machine learning, ceases operations after raising more than US\$700 million | [中文](cases/case-28-5.md) · [English](cases-en/case-28-5.md) |
+| 38.6 | United States | Legal Services — New York lawyers use ChatGPT for research, submit fictitious case law to the court, and are found to have acted in bad faith and fined US\$5,000 | [中文](cases/case-38-6.md) · [English](cases-en/case-38-6.md) |
+
+## How to read the numbers — limitations
+
+- **Provenance labels.** Every result carries a label: independent research, government, company self-reported, vendor-reported, media report, or court/tribunal document. In chapters 1–42, about 8 in 10 success cases (147 of 186) report results that come only from the company itself or from its AI vendor. Treat those figures as best-case upper bounds, not as promises or benchmarks.
+- **The statistics above cover chapters 1–42 (229 cases).** Chapter 43 (mental health, 6 cases) was added on 2026-10-25 and is not included in the workflow and failure-pattern tables.
+- **Selection bias.** The handbook only covers cases that were made public. Successful projects are published far more often than failed ones, and large enterprises disclose more than small ones: 115 of the 229 cases in chapters 1–42 are large enterprises and only 19 are small or small-to-mid.
+- **Internal verification.** Number-by-number checking against primary sources was done by our own team (a drafter plus an independent reviewer), not by an outside auditor. Where sources disagree, both figures are shown with their sources.
+- **Dates vary.** Each case states when its results were reported; older cases are better read for the approach than for the numbers.
+- **Translations.** The Chinese files are authoritative; if an English translation differs, the Chinese text prevails.
+
+## License
+
+The case texts written by Kunlun Growth (Chinese originals, English translations and this README) are licensed under **CC BY-NC-SA 4.0** — see [LICENSE](LICENSE) for the full legal code. Third-party source titles, quoted passages, the underlying facts and third-party trademarks are not covered by this license; please cite the original sources listed in each case file.
 
 ## About
 
-[Kunlun Growth](https://kunlungrowth.com) — enterprise AI enablement for SMBs, Hangzhou. Full Chinese edition: [kunlungrowth.cn/research/ai-cases-2026](https://kunlungrowth.cn/research/ai-cases-2026). Contact: marshall@kunlungrowth.com
+Kunlun Growth (昆仑增长, public brand 增长飞轮AI) helps small and mid-sized businesses adopt AI: diagnosis, pilots with clear metrics, delivery and training. Shenzhen · Huaibei · Hangzhou, China. Website: kunlungrowth.cn · WeChat: MarshallPD.

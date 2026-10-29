@@ -1,15 +1,15 @@
-# Case 2.5 (Japan): Metal stamping — an 18-person stamping factory cut manual visual inspection volume 95% with AI (government-verified pilot)
+# Case 2.5 (Japan): Stamped Parts — An 18-person stamping shop uses AI for visual inspection, cutting the volume of manual visual inspection by 95% (demonstration experiment)
 
-**Industry / scenario**: (Small enterprise, 18 employees) Yoshizumi Press Co. — stamping; AI visual inspection for ~5mm laser-diode components.
+**Industry / scenario**: (Small company, 18 employees) 株式会社ヨシズミプレス (Kabushiki Kaisha Yoshizumi Press), metal stamping; AI is used for visual (appearance) inspection of laser diode components about 5 mm in diameter.
 
-**Pain point**: ~500,000 products per month required visual inspection — 6 inspectors, ~10 days each month. The floor manager described the physical and mental strain of microscope work.
+**Pain point**: About 500,000 products a month had to be inspected visually, which took 6 inspectors about 10 days. The on-site supervisor said that inspecting products while looking through a microscope placed a heavy physical and mental burden on inspectors.
 
-**AI approach**: Products are arranged by a conveyor-linked indexer, then AI-judged; defects are automatically removed from the belt. Of the ~20,000 items AI flags as defective (a mix of true defects and good parts), inspectors perform a second visual review.
+**AI solution**: Products are placed into an aligning machine connected to a conveyor; once aligned, they are judged by AI, and defective products are automatically removed from the conveyor. The roughly 20,000 products the AI judges defective include both defective and good items, so inspectors carry out a second visual check on them.
 
-**Outcome**: Items requiring human visual inspection dropped 95% (500,000 → 20,000 per month); total inspection time fell ~40%, or 171 hours per month (excluding breaks). The floor manager reports the automation improved profit margins and wants to extend it to other product lines. (Provenance: government — METI's AI Introduction Guidebook for visual inspection, published March 2021 as a verified pilot; the file does not state whether it continued into production.)
+**Results**: The number of products inspectors must check visually fell by 95% (500,000 → 20,000 a month); total inspection time fell by about 40%, i.e. 171 hours less per month (excluding break time). The on-site supervisor said inspection work had been automated, improving profit margins, and that they hope to extend it to other product types. (Basis: government — a demonstration-experiment example in the Ministry of Economy, Trade and Industry's AI adoption guidebook; published in 2021, and the document does not state whether the experiment moved into full operation afterwards.)
 
-**Firm profile**: Stamping and machining shops with a few dozen employees, high volumes of small parts, and microscope-based manual inspection.
+**Who this fits**: Small stamping and machining shops with no more than a few dozen employees, high volumes of small parts, and manual visual inspection under a microscope.
 
-*Source: METI (Ministry of Economy, Trade and Industry), "外観検査（部品、不良品あり）AI導入ガイドブック" (March 2021) (government-published verification pilot)*
+*Sources: 経済産業省 (Ministry of Economy, Trade and Industry), "外観検査（部品、不良品あり）AI導入ガイドブック" (2021-03) (government; demonstration experiment)*
 
-> Provenance note: self-reported and vendor-reported figures are not verified by third parties — treat them as upper bounds. From *Enterprise AI Adoption Case Handbook (October 2026 edition)*, compiled by Kunlun Growth with number-by-number verification against primary sources.
+> Provenance note: company self-reported and vendor-reported figures are not verified by third parties — treat them as upper bounds. Translated from the verified Chinese original in /cases (the Chinese text is authoritative). From the *Enterprise AI Adoption Case Handbook (October 2026 edition)* by Kunlun Growth (增长飞轮AI). Full edition (43 chapters, 235 cases) available on request via WeChat: MarshallPD.

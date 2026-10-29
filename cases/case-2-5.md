@@ -2,7 +2,7 @@
 
 **行业／场景**：（小型企业，员工18名）株式会社ヨシズミプレス，冲压加工；AI用于直径约5mm的激光二极管部件的外观检查。
 
-**痛点**：每月约50万个产品要做目视检查，6名检查员需要约10天。现场负责人说，"一边看显微镜一边检品，身心负担都很大"。
+**痛点**：每月约50万个产品要做目视检查，6名检查员需要约10天。现场负责人说，“一边看显微镜一边检品，身心负担都很大”。
 
 **AI方案**：产品放进与传送带相连的整列机，排好后由AI判定，不良品自动从传送带上剔除。AI判为不良的约2万个产品里同时有不良品和良品，所以由检查员再做一次目视复检。
 
@@ -12,4 +12,4 @@
 
 *案例来源：经济产业省《外観検査（部品、不良品あり）AI導入ガイドブック》（2021年3月）（政府发布；实证实验）*
 
-> Provenance note: self-reported and vendor-reported figures are not verified by third parties — treat them as upper bounds. From *Enterprise AI Adoption Case Handbook (October 2026 edition)*, compiled by Kunlun Growth with number-by-number verification against primary sources.
+> 口径提示：企业自述与厂商口径数字未经第三方验证，仅作上限参考。出自《企业AI落地案例与分析手册（2026年10月版）》，增长飞轮AI 编写，逐数字核查。完整版（43章、235个案例）私信领取：微信 MarshallPD。

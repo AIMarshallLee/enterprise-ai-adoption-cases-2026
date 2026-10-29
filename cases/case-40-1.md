@@ -12,4 +12,4 @@
 
 *案例来源：arXiv《The Impact of AI Tool on Engineering at ANZ Bank An Emperical Study on GitHub Copilot within Coporate Environment》（2024年2月8日，Sayan Chatterjee等）（企业员工研究论文）；The Register《ANZ Bank test drives GitHub Copilot – and finds AI does give a helping hand》（2024年2月10日，Thomas Claburn）（媒体转述）*
 
-> 口径提示：企业自述与厂商口径数字未经第三方验证，仅作上限参考。出自《企业AI落地案例与分析手册（2026年10月版）》，增长飞轮AI 编写，逐数字核查。
+> 口径提示：企业自述与厂商口径数字未经第三方验证，仅作上限参考。出自《企业AI落地案例与分析手册（2026年10月版）》，增长飞轮AI 编写，逐数字核查。完整版（43章、235个案例）私信领取：微信 MarshallPD。

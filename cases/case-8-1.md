@@ -12,4 +12,4 @@
 
 *案例来源：Campus Technology《Using AI Chatbots to Freeze ‘Summer Melt’ in Higher Ed》（Sri Ravipati，2017年3月7日，媒体）；Brookings《Freezing ‘summer melt’ in its tracks: Increasing college enrollment with AI》（Hunter Gehlbach、Lindsay C. Page，2018年9月11日，研究者撰文）；APPAM 2018会议论文《How an Artificially Intelligent Virtual Assistant Helps Students Navigate the Road to College》摘要（Page、Gehlbach，学术研究）；Mainstay博客《AI Success Coaching at Georgia State University: Tackling Summer Melt》（2024年6月11日，厂商口径）*
 
-> 口径提示：企业自述与厂商口径数字未经第三方验证，仅作上限参考。出自《企业AI落地案例与分析手册（2026年10月版）》，增长飞轮AI 编写，逐数字核查。
+> 口径提示：企业自述与厂商口径数字未经第三方验证，仅作上限参考。出自《企业AI落地案例与分析手册（2026年10月版）》，增长飞轮AI 编写，逐数字核查。完整版（43章、235个案例）私信领取：微信 MarshallPD。
